@@ -1,3 +1,10 @@
+# Info
+This app ises the unsplash.com API to retrive images and render them into react components.
+
+# Setup
+In `.env` you have to create a `REACT_APP_AUTH_HEADER` variable and set it equal to you API key.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
