@@ -1,5 +1,5 @@
 # Info
-This app ises the unsplash.com API to retrive images and render them into react components.
+This app uses the unsplash.com API to retrive images and render them into react components.
 
 # Setup
 In `.env` you have to create a `REACT_APP_AUTH_HEADER` variable and set it equal to you API key.
